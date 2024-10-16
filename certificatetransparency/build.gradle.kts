@@ -30,7 +30,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     testImplementation("com.squareup.retrofit2:retrofit-mock:2.9.0")
 
-    testImplementation("junit:junit:4.13")
+    testImplementation("junit:junit:4.13.2")
     testImplementation("org.mockito:mockito-core:3.5.13")
     testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
 
