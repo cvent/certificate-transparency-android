@@ -43,7 +43,7 @@ dependencies {
 
     api(project(":certificatetransparency"))
 
-    testImplementation("junit:junit:4.13")
+    testImplementation("junit:junit:4.13.2")
     testImplementation("org.mockito:mockito-core:3.5.13")
     testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
 
