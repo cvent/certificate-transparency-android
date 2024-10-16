@@ -61,5 +61,5 @@ dependencies {
     implementation("com.afollestad.material-dialogs:input:3.3.0")
     implementation("com.pddstudio:highlightjs-android:1.5.0")
     implementation("com.android.volley:volley:1.1.1")
-    implementation("com.github.spullara.mustache.java:compiler:0.9.6")
+    implementation("com.github.spullara.mustache.java:compiler:0.9.14")
 }
