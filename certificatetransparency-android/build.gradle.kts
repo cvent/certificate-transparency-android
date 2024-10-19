@@ -47,7 +47,7 @@ dependencies {
     testImplementation("org.mockito:mockito-core:3.5.13")
     testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
 
-    testImplementation("androidx.test:core:1.3.0")
+    testImplementation("androidx.test:core:1.6.1")
     testImplementation("androidx.test:runner:1.3.0")
     testImplementation("androidx.test.ext:junit:1.1.2")
     testImplementation("org.robolectric:robolectric:4.4")
